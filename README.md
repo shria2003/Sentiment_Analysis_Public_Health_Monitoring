@@ -5,7 +5,14 @@ Conclusion:The sentiment analysis model has shown promising performance in publi
 Future Work:The sentiment analysis methodology for public health monitoring offers a robust framework for understanding and analyzing public opinions on health-related social media topics. However, there are potential areas for improvement to ensure its continued effectiveness. These include exploring deep learning architectures, fine-tuning hyperparameters, and using pre-trained language models. Increasing the dataset's diversity can enhance the model's ability to generalize to a wider range of attitudes and subjects, especially in the context of public health discourse.
 Future research should also explore how sentiment analysis findings can be applied to real-time public health initiatives, such as automated alarm systems or decision-support tools. Additionally, the model's aspect-based sentiment analysis capabilities could be improved, providing policymakers with more practical information on specific public health issues.
 Context-aware sentiment analysis and user demographics could provide a more nuanced understanding of public health views, potentially leading to tailored therapies. Privacy protections and ethical issues should be prioritized in new innovations, as sentiment analysis in the public health sector involves analyzing user-generated information.
+
 ![image](https://github.com/shria2003/Sentiment_Analysis_Public_Health_Monitoring/assets/114279417/cdd1e518-6dec-444c-9bfb-1cfff2088882)
+
+
+
+
 Data VIsualisation:
+
+
 ![image](https://github.com/shria2003/Sentiment_Analysis_Public_Health_Monitoring/assets/114279417/a9486956-8063-44bc-a202-221f2fceaa2d)
 
